@@ -14,8 +14,7 @@ PROGRAM:-
     <img width="1057" height="257" alt="image" src="https://github.com/user-attachments/assets/56cfbfbe-7222-42ce-b9df-79b4b9adbc69" />
 Output:-
 
-    <img width="1121" height="327" alt="image" src="https://github.com/user-attachments/assets/5f142121-a434-4aa1-b1da-0ca1620f3bd4" />
-
+    <img width="1121" height="327" alt="Image" src="https://github.com/user-attachments/assets/3aaab6f9-1af3-4e4c-8b0a-512f16628e07" />
 
 # DELIVERABLE: A SCRIPT DEMONSTRATING FILE OPERATIONS WITH CLEAR DOCUMENTATION
   def create_file(file_name):-"Creates a new file with the specified name"
