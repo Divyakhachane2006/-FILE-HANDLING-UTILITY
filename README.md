@@ -9,12 +9,8 @@ MENTOR:- NEELA SANTHOSH KUMAR
 ID:-CTO4DR697
 
 # CREATE A JAVA PROGRAM TO READ,WRITE, AND MODIFY TEXT FILES
-PROGRAM:-
 
-    <img width="1057" height="257" alt="image" src="https://github.com/user-attachments/assets/56cfbfbe-7222-42ce-b9df-79b4b9adbc69" />
-Output:-
-
-    <img width="1121" height="327" alt="Image" src="https://github.com/user-attachments/assets/3aaab6f9-1af3-4e4c-8b0a-512f16628e07" />
+    [<img width="1121" height="327" alt="Image" src="https://github.com/user-attachments/assets/3aaab6f9-1af3-4e4c-8b0a-512f16628e07" />](https://github.com/Divyakhachane2006/-FILE-HANDLING-UTILITY/issues/1#issue-3543615801)
 
 # DELIVERABLE: A SCRIPT DEMONSTRATING FILE OPERATIONS WITH CLEAR DOCUMENTATION
   def create_file(file_name):-"Creates a new file with the specified name"
